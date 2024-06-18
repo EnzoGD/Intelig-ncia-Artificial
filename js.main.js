@@ -35,22 +35,28 @@ const perguntas = [
     {
         enunciado: "Qual fator terá maior impacto nas competições esportivas no futuro?",
         alternativas: [
-            "Alternativa 1",
-            "Alternativa 2"
+            "Mudanças climáticas e adaptação dos esportes",
+            "Integração de atletas humano com atletas ciborgues",
+            "Competições espaciais",
+            "Uso generalizado de tecnologia ded levitação magnética em arenas esportivas"
         ]
     },
     {
-        enunciado: "Pergunta 5",
+        enunciado: "Como a prática esportiva pode se adaptar às necessidades futuras da sociedade?",
         alternativas: [
-            "Alternativa 1",
-            "Alternativa 2"
+            "Esportes aquáticos devido à elevação do nivel do mar",
+            "Esportes de resistencia em ambientes extremos",
+            "Esportes adaptados para habitats extraterrestres",
+            "Esportes visuais para combater restrições de mobilidade"
         ]
     },
     {
-        enunciado: "Pergunta 6",
+        enunciado: "Qual será o principal desafio ético no esporte no futuro?",
         alternativas: [
-            "Alternativa 1",
-            "Alternativa 2"
+            "Uso da tecnologia para alterar geneticamente atletas",
+            "Competições entre humanos e inteligências artificiais",
+            "Acesso desigual a tecnologia esportiva avançada",
+            "Exploração comercial de eventos esportivos em outros planetas"
         ]
     },
 ]; 
